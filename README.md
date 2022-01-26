@@ -7,13 +7,13 @@
 GIS data showing MS4 regulated Areas in the Casco Bay Region
 
 # Introduction
-This archive includes geospatial data and a simple maps showing the location
+This archive includes geospatial data and a simple map showing the location
 of MS4 regulated areas in the Casco Bay region, in Maine.
 
 Curiously, areas regulated under the U.S. Clean Water Act's "Municipal 
 Separate Storm Sewer System" program (known as the "MS4" program) are not 
 based on municipal boundaries or even on local land use, but on whether the 
-areas are designated by the U.S. Cesus as part of an "urbanized area". These
+areas are designated by the U.S. Census as part of an "urbanized area". These
 maps show how those designated areas have been interpreted by Maine DEP 
 to identify areas in the MS4 program.
 
@@ -31,7 +31,7 @@ review, critique, learn from, and build upon CBEP science.
 CBEP 2020/2021 State of the Bay data analysis summaries contain a selection of 
 data,  data analysis code, and visualization code as used to produce 
 results shared via our most recent State of Casco Bay report. Usually, these
-archives are organized int otwo or three folders, including the following:
+archives are organized into two or three folders, including the following:
 
 - Data.  Contains data in simplified or derived form as used in our
 data  analysis.  Associated metadata is contained in related Markdown documents,
